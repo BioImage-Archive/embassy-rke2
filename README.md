@@ -2,8 +2,6 @@
 
 This deploys an [rke2](https://docs.rke2.io/) cluster in Embassy Openstack
 
-There are 3 directories for different install configurations
-
 #### Requirements
 
 ##### GPU
